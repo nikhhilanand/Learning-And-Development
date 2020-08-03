@@ -4,7 +4,7 @@ This repo contains articles pertaining to information security.
 
 The topics include:
 
-- [Web Application Security](#webapp)
+- [Web Application Security](#web-application-security)
 
 
 ----------
