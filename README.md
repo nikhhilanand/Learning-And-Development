@@ -6,7 +6,7 @@ The topics include:
 
 - [Weekly Updates](#weekly-updates)
 - [Web Application Security](#web-application-security)
-	- Articles(#articles)
+	- [Articles](#articles)
 
 ----------
 ### Weekly Updates
