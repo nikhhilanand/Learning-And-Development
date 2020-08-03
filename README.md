@@ -6,11 +6,12 @@ The topics include:
 
 - [Weekly Updates](#weekly-updates)
 - [Web Application Security](#web-application-security)
-	- Articles(#articles)
+	- [Articles-](#articles)
 
 ----------
 ### Weekly Updates
 - [Intigriti Newsletter](https://blog.intigriti.com/)
+- [PortSwigger - The Daily Swig](https://portswigger.net/daily-swig)
 
 ----------
 
